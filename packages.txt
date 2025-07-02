@@ -1,1 +1,2 @@
 ffmpeg
+libblas3
