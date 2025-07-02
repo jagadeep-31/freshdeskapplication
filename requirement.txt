@@ -1,6 +1,0 @@
-streamlit
-requests
-transformers
-openai-whisper
-deep-translator
-plotly
